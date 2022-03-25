@@ -1,6 +1,6 @@
-package by.javacourse.se.homework3.constants;
+package by.javacourse.se.project.enums;
 
-public enum Color {
+public enum ColorEnum {
     BLUE,
     RED,
     GREEN,
